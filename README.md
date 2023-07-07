@@ -1,3 +1,6 @@
+<img width="802" alt="image" src="https://github.com/arunsinp/Statistics-fundamental/assets/15100077/390f74db-cfbf-4a20-9c9d-f211c83ec1bc">
+
+
 # Statistics-fundamental
 (Statistics in Python: Jupyter Notebook Collection)
 
